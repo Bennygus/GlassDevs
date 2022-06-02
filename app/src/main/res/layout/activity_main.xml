@@ -20,48 +20,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_margin="20dp"
-                app:cardCornerRadius="15dp"
-                app:cardElevation="10dp">
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center_horizontal"
-                    android:orientation="vertical">
-
-                    <!--                    Sätt in bilder här sen?-->
-
-                    <com.google.android.material.chip.Chip
-                        android:id="@+id/chip4"
-                        android:layout_width="83dp"
-                        android:layout_height="37dp"
-                        android:minHeight="48dp" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="30dp"
-                        android:layout_marginTop="70dp"
-                        android:gravity="center"
-
-                        android:text="Strawberry"
-                        android:textSize="15sp">
-
-                    </TextView>
-
-
-                </LinearLayout>
-
-
-
-
-
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
+                android:layout_height="200dp"
                 android:layout_margin="20dp"
                 app:cardCornerRadius="15dp"
                 app:cardElevation="10dp">
@@ -77,22 +36,63 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="115dp"
+                        android:layout_marginTop="120dp"
+                        android:text="Strawberry"
+
+                        android:textSize="15sp">
+                    </TextView>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="add"
+                        android:textSize="11sp"
+                        ></androidx.appcompat.widget.AppCompatButton>
+
+
+                </LinearLayout>
+
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_margin="20dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <!--                    Sätt in bilder här sen?-->
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="120dp"
                         android:text="Chocolate"
 
                         android:textSize="15sp">
-
                     </TextView>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="add"
+                        android:textSize="9sp"
+                        ></androidx.appcompat.widget.AppCompatButton>
 
 
                 </LinearLayout>
 
 
-            </androidx.cardview.widget.CardView>
 
+            </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="150dp"
-                android:layout_height="150dp"
+                android:layout_height="200dp"
                 android:layout_margin="20dp"
                 app:cardCornerRadius="15dp"
                 app:cardElevation="10dp">
@@ -108,22 +108,27 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="115dp"
+                        android:layout_marginTop="120dp"
                         android:text="Vanilla"
 
                         android:textSize="15sp">
-
                     </TextView>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="add"
+                        android:textSize="11sp"
+                        ></androidx.appcompat.widget.AppCompatButton>
 
 
                 </LinearLayout>
 
 
-            </androidx.cardview.widget.CardView>
 
+            </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="150dp"
-                android:layout_height="150dp"
+                android:layout_height="200dp"
                 android:layout_margin="20dp"
                 app:cardCornerRadius="15dp"
                 app:cardElevation="10dp">
@@ -139,22 +144,27 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="115dp"
-                        android:text="Unicorn poop"
+                        android:layout_marginTop="120dp"
+                        android:text="Green tea"
 
                         android:textSize="15sp">
-
                     </TextView>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="add"
+                        android:textSize="11sp"
+                        ></androidx.appcompat.widget.AppCompatButton>
 
 
                 </LinearLayout>
 
 
-            </androidx.cardview.widget.CardView>
 
+            </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="150dp"
-                android:layout_height="150dp"
+                android:layout_height="200dp"
                 android:layout_margin="20dp"
                 app:cardCornerRadius="15dp"
                 app:cardElevation="10dp">
@@ -170,22 +180,27 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="115dp"
-                        android:text="Key Lime Pie"
+                        android:layout_marginTop="120dp"
+                        android:text="Soft vanilla"
 
                         android:textSize="15sp">
-
                     </TextView>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="add"
+                        android:textSize="11sp"
+                        ></androidx.appcompat.widget.AppCompatButton>
 
 
                 </LinearLayout>
 
 
-            </androidx.cardview.widget.CardView>
 
+            </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
                 android:layout_width="150dp"
-                android:layout_height="150dp"
+                android:layout_height="200dp"
                 android:layout_margin="20dp"
                 app:cardCornerRadius="15dp"
                 app:cardElevation="10dp">
@@ -201,15 +216,21 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="115dp"
-                        android:text="Salty Liqourice"
+                        android:layout_marginTop="120dp"
+                        android:text="Soft Chocolate"
 
                         android:textSize="15sp">
-
                     </TextView>
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:text="add"
+                        android:textSize="11sp"
+                        ></androidx.appcompat.widget.AppCompatButton>
 
 
                 </LinearLayout>
+
 
 
             </androidx.cardview.widget.CardView>
