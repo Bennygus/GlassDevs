@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/gatts/AndroidStudioProjects/GlassDev/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout-land/activity_customernumber.xml" value="0.1591710758377425" />
+        <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout/activity_confirmorder.xml" value="0.3211050724637681" />
         <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout/activity_customernumber.xml" value="0.33" />
         <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout/activity_payment.xml" value="0.12968591691995948" />
+        <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout/activity_payment.xml" value="0.33" />
         <entry key="..\:/Users/janss/AndroidStudioProjects/GlassDevs/app/src/main/res/layout/activity_vendor.xml" value="0.16576086956521738" />
       </map>
     </option>
