@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GlassDev</string>
+    <string name="order_number">OrderNumber</string>
+    <string name="pay">PAY</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="cup">CUP</string>
+    <string name="flavours">FLAVOURS</string>
+    <string name="your_order">YOUR ORDER:</string>
+
 </resources>
