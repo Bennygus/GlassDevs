@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void goToActivity2 (View view){
-        Intent intent = new Intent (this, activity_confirmorder.class);
+        Intent intent = new Intent (this, activity_confirmOrder.class);
         startActivity(intent);
     }
 
@@ -20,7 +20,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_customernumber);
+        setContentView(R.layout.activity_main);
+        setTitle("Order");
 
 
 
